@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Motivačný blog zameraný na psychické zdravie, jogu a inšpiratívne citáty.">
+<title>Blog o Psychickom Zdraví a Inšpirácii</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+background-color: #f9f7f7;
+margin: 0;
+padding: 0;
+color: #333;
+}
+header {
+background-color: #6a4c9c;
+color: white;
+padding: 20px 0;
+text-align: center;
+}
+h1 {
+margin: 0;
+font-size: 2.5rem;
+}
+nav {
+text-align: center;
+margin-top: 10px;
+}
+nav a {
+color: white;
+margin: 0 15px;
+text-decoration: none;
+font-size: 1.1rem;
+}
+nav a:hover {
+text-decoration: underline;
+}
+.main-content {
+max-width: 900px;
+margin: 20px auto;
+padding: 20px;
+background-color: white;
+border-radius: 8px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.quote {
+font-style: italic;
+color: #6a4c9c;
+text-align: center;
+margin: 30px 0;
+}
+footer {
+background-color: #6a4c9c;
+color: white;
+text-align: center;
+padding: 10px 0;
+position: relative;
+bottom: 0;
+width: 100%;
+}
+.flower-decoration {
+width: 50px;
+height: 50px;
+background-image: url('https://img.icons8.com/ios/50/000000/flower.png');
+background-size: cover;
+margin-top: 10px;
+}
+.blog-post {
+margin-bottom: 40px;
+}
+.blog-post h2 {
+color: #6a4c9c;
+}
+.blog-post p {
+line-height: 1.8;
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Blog o Psychickom Zdraví a Inšpirácii</h1>
+<nav>
+<a href="#joga">Joga</a>
+<a href="#citaty">Motivačné Citáty</a>
+<a href="#pomoc">Pomoc a Podpora</a>
+</nav>
+</header>
+
+<div class="main-content">
+<section class="quote">
+<p>"Nezáleží na tom, akú dlhú cestu prejdeš, hlavné je, že si sa odvážil urobiť prvý krok."</p>
+</section>
+
+<section class="blog-post" id="joga">
+<h2>Joga pre Duševnú Rovnováhu</h2>
+<p>Joga nie je len fyzické cvičenie, ale aj spôsob, ako nájsť vnútorný pokoj a harmóniu. Pomáha uvoľniť myseľ a zlepšiť naše psychické zdravie tým, že nás učí, ako sa sústrediť na prítomný okamih.</p>
+</section>
+
+<section class="blog-post" id="citaty">
+<h2>Motivačné Citáty</h2>
+<p>„Mysli pozitívne, a celý svet sa zmení. Tvoje myšlienky majú silu formovať tvoj život.“</p>
+<p>„Každý deň je nová príležitosť začať znova. Neboj sa využiť tento dar.“</p>
+</section>
+
+<section class="blog-post" id="pomoc">
+<h2>Pomoc a Podpora</h2>
+<p>Psychické zdravie je kľúčové pre celkovú pohodu. Nezabúdaj, že ak sa cítiš zle alebo zraniteľne, je v poriadku požiadať o pomoc. Rôzne organizácie a odborníci ti môžu pomôcť nájsť správnu cestu.</p>
+</section>
+</div>
+
+<div class="flower-decoration"></div>
+
+<footer>
+<p>&copy; 2024 Blog o Psychickom Zdraví</p>
+<p>Všetky práva vyhradené.</p>
+</footer>
+
+</body>
+</html>
